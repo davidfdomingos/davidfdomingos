@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidfdomingos
-- 🌱 Doing a PhD among many other interests in life
+- 🌱 Doing a PhD among many other interesting things in life
 - 👀 Fluid Dynamics, Systems and Control and Naval Architecture
 - 💞️ I’m looking to collaborate on sustainable projects
 - 📫 How to reach me david.f.domingos@gmail.com
