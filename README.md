@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @davidfdomingos
-- 💞️ Doing a PhD among many other interesting things in life
-- 👀 Fluid Dynamics, Systems and Control and Naval Architecture
-- 🌱 Green energies rock 🤘
+- 🧑‍💻 Most likely I'm busy modelling something in an attempt to make the world a better place. 
 - 📫 david.f.domingos@gmail.com
 
 <!---
