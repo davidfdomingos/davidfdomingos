@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidfdomingos
-- 🧑‍💻 Most likely I'm either climbing of busy modelling something in an attempt to make the world a better place. 
+- 🧑‍💻 Most likely I'm either climbing or busy modelling something in an attempt to make the world a better place. 
 - 📫 david.f.domingos@gmail.com
 
 <!---
