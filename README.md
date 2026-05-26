@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @davidfdomingos
 - 🧑‍💻 Most likely I'm either climbing or busy modelling something in an attempt to make the world a better place. 
 - 📫 david.f.domingos@gmail.com
+- https://www.linkedin.com/in/davidomingos/
 
 <!---
 davidfdomingos/davidfdomingos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
